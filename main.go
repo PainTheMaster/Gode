@@ -7,7 +7,8 @@ import (
 )
 
 func main() {
-
+	//	encode("test.jpg", "encode.txt")
+	decode("received.txt", "decoded.jpg")
 }
 
 func encode(read, write string) {
