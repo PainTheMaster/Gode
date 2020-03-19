@@ -8,7 +8,7 @@ import (
 
 func main() {
 	//	encode("test.jpg", "encode.txt")
-	decode("received.txt", "decoded.jpg")
+	decode("codePNAS.txt", "DonohoPNAS.pdf")
 }
 
 func encode(read, write string) {
